@@ -11,10 +11,12 @@
 
 ### OpenAI Credentials
 Set environment variables into `.env` file.
+
 Set the API key as an environment variable named OPENAI_API_KEY. 
 Set the Base Url as an environment variable named OPENAI_API_BASE.
 
 E.g:
+
 ```bash
 OPENAI_API_KEY=sk-1234567890abcdef1234567890abcdef
 OPENAI_API_BASE=https://api.openai.com/
@@ -63,6 +65,11 @@ traitlets        : 5.14.1
 Use shortcut `Contrl + Enter` Or `Run ALL` Button In IDE.
 
 ## References
-https://github.com/dair-ai/Prompt-Engineering-Guide
-https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
-https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction
+
+[Generative AI for Beginners (microsoft.github.io)](https://microsoft.github.io/generative-ai-for-beginners/#/05-advanced-prompts/README)
+
+[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+
+[Prompt Engineering | Lil'Log (lilianweng.github.io)](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
+
+[ChatGPT Prompt Engineering for Developers (deeplearning.ai)](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction)
